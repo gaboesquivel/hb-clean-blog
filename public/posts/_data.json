@@ -1,0 +1,27 @@
+{
+  "posts":{
+    "hello-world": {
+      "title": "Hello World",
+      "description": "Problems look mighty small from 150 miles up",
+      "author": "gaboesquivel",
+      "date":"2015-09-13T18:39:41.418Z",
+      "backgroundImage":"/assets/images/post-bg.jpg"
+    },
+    "hello-markdown": {
+      "title": "Markdown Post",
+      "description": "Intuitive design is how we give the user new superpowers",
+      "author": "gaboesquivel",
+      "date":"2015-09-13T18:39:41.418Z"
+    }
+  },
+  "authors":{
+    "gaboesquivel":{
+      "name": "Gabo Esquivel",
+      "bio": "Software Engineer, JavaScript Consultant. Organizer of @CostaRicaJS",
+      "twitter": "gaboesquivel",
+      "github": "gaboesquivel",
+      "avatar": "https://pbs.twimg.com/profile_images/605919319029989376/xelykfGd.png",
+      "website": "http://gaboesquivel.com"
+    }
+  }
+}
