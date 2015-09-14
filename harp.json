@@ -3,6 +3,8 @@
   "globals": {
     "site_title": "My Harp Blog",
     "twitter": "HarpPlatform",
+    "facebook": "#",
+    "github": "harp-boilerplates",
     "site_url": "http://example.com",
     "disqus": {
       "enabled": false,
