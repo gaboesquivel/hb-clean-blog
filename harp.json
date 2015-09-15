@@ -2,6 +2,7 @@
   "domains": [""],
   "globals": {
     "site_title": "My Harp Blog",
+    "nav_brand_name": "Brand Name",
     "twitter": "HarpPlatform",
     "facebook": "#",
     "github": "harp-boilerplates",
