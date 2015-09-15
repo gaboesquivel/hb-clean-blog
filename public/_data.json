@@ -14,5 +14,10 @@
 		"title": "",
 		"subheading": "A Clean Blog Theme by Start Bootstrap",
 		"backgroundImage": "/assets/images/home-bg.jpg"
+	},
+	"contact":{
+		"title": "Contact Me",
+		"subheading": "Have questions? I have answers (maybe).",
+		"backgroundImage": "/assets/images/contact-bg.jpg"
 	}
 }
