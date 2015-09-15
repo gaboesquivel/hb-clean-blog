@@ -4,5 +4,15 @@
 	},
 	"sitemap": {
 		"layout": false
+	},
+	"about":{
+		"title": "About Me",
+		"subheading": "This is what I do.",
+		"backgroundImage": "/assets/images/about-bg.jpg"
+	},
+	"index":{
+		"title": "",
+		"subheading": "A Clean Blog Theme by Start Bootstrap",
+		"backgroundImage": "/assets/images/home-bg.jpg"
 	}
 }
